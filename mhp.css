@@ -1,0 +1,90 @@
+header{
+  background-color:skyblue;
+  display: flex;
+  padding-top: 40px;
+  padding-bottom: 40px;
+
+}
+.icon{
+  padding-left: 550px;
+}
+.info{
+  padding-left: 10px;
+}
+.info h1{
+  margin-bottom: 0;
+}
+.info h2{
+  margin-top : 0;
+}
+
+
+
+
+.e{
+  display:flex;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.m{
+  display:flex;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.f{
+  display:flex;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.sum{
+  display:flex;
+}
+.sum #sum{
+  font-size: 50px;
+}
+
+.e #b1b{
+  font-size: 50px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.e #b2b{
+  font-size: 50px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.e #b3b{
+  font-size: 50px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.m #b4b{
+  font-size: 50px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.m #b5b{
+  font-size: 50px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.m #b6b{
+  font-size: 50px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.f #b7b{
+  font-size: 50px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.f #b8b{
+  font-size: 50px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.f #b9b{
+  font-size: 50px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
